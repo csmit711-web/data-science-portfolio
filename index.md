@@ -13,15 +13,6 @@ My career goal is to become a data scientist and work on projects where data can
 
 This portfolio documents my growth as a Data Science student. It includes projects, programming work, and reflections that show the skills I am developing throughout my education. I plan to continue updating it as I complete new projects, learn new techniques, and gain more experience in data science.
 
-## Resume
+## Explore My Portfolio
 
-[View My Resume](resume.pdf)
-
-## LinkedIn
-
-[View My LinkedIn Profile](https://www.linkedin.com/in/chay-smith-0302a2437/)
-
-## Portfolio
-
-- [Blog](blog.md)
-- [Projects](projects.md)
+[Projects](projects.md) | [Blog](blog.md) | [Resume](resume.pdf) | [LinkedIn](https://www.linkedin.com/in/chay-smith-0302a2437/)
