@@ -9,3 +9,9 @@ At the same time, there are many things that can go wrong when working with data
 I also think data scientists have a responsibility to respect people's privacy. They should not misuse people's personal information, sell information in ways people did not agree to, or use data in ways that violate people's rights. This becomes especially important in areas like healthcare. Good healthcare data can help clinics and hospitals understand patients better and possibly save lives, while inaccurate or biased data could lead to negative outcomes.
 
 I became interested in data science because I enjoy math, data, coding, and science, so it combines a lot of things that already interest me. My mom is also a medical writer, which has helped increase my interest in using data and science in areas that can help people. In the future, I would like to use what I learn to make a positive difference. Throughout this course, I especially hope to understand more about the ethical side of data science and how to use data responsibly when it involves real people.
+
+## My Background and Goals
+
+I am currently a Data Science student at UNC Charlotte. I have experience with Python and Java, and I am beginning to use tools such as pandas, matplotlib, and seaborn for data analysis and visualization. Through my coursework and projects, I am learning how to collect, clean, analyze, and explain data.
+
+My long-term goal is to become a data scientist and use data to solve real-world problems. I want to continue improving my programming, statistics, machine learning, and visualization skills throughout college and eventually gain experience through internships and professional data science work.
