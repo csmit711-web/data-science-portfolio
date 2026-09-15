@@ -5,8 +5,6 @@ UNC Charlotte
 
 ## About Me
 
-## About Me
-
 My name is Chay Smith, and I am a Data Science student at the University of North Carolina at Charlotte. I am interested in using data and technology to better understand real-world problems and help people make better decisions. Throughout my education, I have developed an interest in programming, statistics, data analysis, and finding patterns within information.
 
 I have experience working with Python and Java, and I have used Python libraries such as pandas, matplotlib, and seaborn for data analysis and visualization. I am continuing to improve these skills through my coursework and personal projects. One of my recent projects involved using data from the U.S. Census Bureau American Community Survey API to study differences in median household income across North Carolina counties. I used Python to collect, clean, analyze, and visualize the data. Projects like this have helped me understand how data science can turn large amounts of information into findings that are easier to understand.
