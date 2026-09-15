@@ -87,3 +87,11 @@ The data was collected using the U.S. Census Bureau American Community Survey AP
 ### Data Source
 
 U.S. Census Bureau. American Community Survey 2024 5-Year Estimates.
+
+## Academic References
+
+Carneiro, P., Heckman, J. J., & Vytlacil, E. J. (2011). Estimating marginal returns to education. *American Economic Review, 101*(6), 2754–2781. https://doi.org/10.1257/aer.101.6.2754
+
+Hoynes, H. W., Page, M. E., & Stevens, A. H. (2006). Poverty in America: Trends and explanations. *Journal of Economic Perspectives, 20*(1), 47–68. https://doi.org/10.1257/089533006776526102
+
+Desmond, M. (2018). Heavy is the house: Rent burden among the American urban poor. *International Journal of Urban and Regional Research, 42*(1), 160–170. https://doi.org/10.1111/1468-2427.12529
